@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.2.0)
+  - CDAlertView (0.3.1)
+  - Charts (3.0.0):
+    - Charts/Core (= 3.0.0)
+  - Charts/Core (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - CDAlertView
+  - Charts (= 3.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  CDAlertView: eef7e1d14a3922c079f83e0c6adc6416d9f6940b
+  Charts: beb341928d2135613b4325a6c6aff9f2f6de895e
+
+PODFILE CHECKSUM: 1c355e3bee371ffca3ddb6d74a8d2077a6b1499e
+
+COCOAPODS: 1.2.0
